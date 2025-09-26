@@ -21,22 +21,25 @@
 </td>
 <td>
 
-yaml
+```yaml
 name: Lucky Dawamuz Dzikri
 located_in: Indonesia
-current_company: -
-current_role: -
-education: Diploma 3 Informatics Engineering - 3.82
-website: -
+education: Diploma 3 Informatics Engineering - GPA 3.82/4.00
 
 currently_learning: Multi-platform Developer (Flutter), Framework (React.js)
 2025_goal: have a job :)
 hobbies: Gaming, Tech, Movies, and Music.
 
-
+```
+<!-- 
+# website: -
+# current_company: -
+# current_role: - -->
 </td>
 </tr>
 </table>
+
+
 
 </div>
 
@@ -63,7 +66,7 @@ hobbies: Gaming, Tech, Movies, and Music.
 
 ## 📊 GITHUB ANALYTICS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luckydxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luckydxd&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luckydxd&theme=tokyonight&hide_border=true"/>
 
 <br/>
@@ -88,7 +91,7 @@ hobbies: Gaming, Tech, Movies, and Music.
 
 <div align="center">
 
-## 💼 FEATURED PROJECTS
+<!-- ## 💼 FEATURED PROJECTS
 
 <table>
 <tr>
@@ -157,34 +160,20 @@ hobbies: Gaming, Tech, Movies, and Music.
 
 ---
 
-<div align="center">
+<div align="center"> -->
+
 
 ## 🎯 CURRENT FOCUS
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-mermaid graph LR
-    A[🔭 Currently Working On] --> B[[Web Portofolios]]
-    C[🌱 Learning] --> D[Multi-platform Developer]
-    E[💬 Ask Me About] --> F[Fullstack Developer]
-    G[⚡ Fun Fact] --> H[[Willing to learn a new stack]]
-    
-    style A fill:#ff6b6b
-    style C fill:#4ecdc4
-    style E fill:#45b7d1
-    style G fill:#96ceb4
-
-
-</div>
-
----
+<img src="https://raw.githubusercontent.com/luckydxd/luckydxd/output/current-focus.svg" alt="Diagram of my current focus and skills" />
 
 <div align="center">
 
 ## 📈 CONTRIBUTION GRAPH
 
-<img src="https://raw.githubusercontent.com/luckydxd/luckydxd/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/luckydxd/luckydxd/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
