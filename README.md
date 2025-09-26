@@ -3,9 +3,9 @@
   <!-- Animated Header -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LuckyDawamuzDzikri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=-%20at%20-&descAlign=50&descAlignY=51&descSize=16"/>
   
-  <!-- Typing Animation -->
-   <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=I am an informatics engineering student specializing in web applications.;I have experience from college, internships, and coding camps.;Stop scrolling facebook and let's code!" alt="Typing Animation"/>
-  
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=I am an informatics engineering student specializing in web applications with experience in college, internships, and coding camps.;Skilled in Fullstack development.;[Your motto]" alt="Typing Animation"/>
+
 </div>
 
 ---
@@ -49,10 +49,10 @@ hobbies: Gaming, Tech, Movies, and Music.
 
 <img src="https://skillicons.dev/icons?i=js,bootstrap,vite,webpack,php,laravel,nodejs,mysql,firebase,flutter,figma,git,github,vscode,discord,notion&perline=8" />
 
-
 <br/><br/>
 
 <!-- Programming Languages -->
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Languages I Speak:**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckydxd&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
