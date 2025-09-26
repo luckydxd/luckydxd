@@ -1,10 +1,10 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Lucky Dawamuz Dzikri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=-%20at%20-&descAlign=50&descAlignY=51&descSize=16"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Lucky Dawamuz Dzikri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=-%20at%20-&descAlign=50&descAlignY=51&descSize=16&_"/>
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=I am informatics engineering specializing in web applications with various experience: college,internship & coding camp, I am skilled in Fullstack.;[Your motto]" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=I am informatics engineering specializing in web applications with various experience: college,internship & coding camp, I am skilled in Fullstack.;Stop scroll facebook and do the code&_=1" alt="Typing Animation"/>
   
 </div>
 
@@ -167,7 +167,19 @@ hobbies: Gaming, Tech, Movies, and Music.
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-<img src="https://raw.githubusercontent.com/luckydxd/luckydxd/output/current-focus.svg" alt="Diagram of my current focus and skills" />
+```mermaid
+graph TD
+    A["🚀 Working On <br/> Web Portfolios"]
+    B["📚 Learning <br/> Multi-platform Development"]
+    C["💬 Ask Me About <br/> Fullstack Development"]
+    D["💡 Fun Fact <br/> I love learning new tech!"]
+
+    style A fill:#ff6b6b,stroke:#FFF,stroke-width:2px
+    style B fill:#4ecdc4,stroke:#FFF,stroke-width:2px
+    style C fill:#45b7d1,stroke:#FFF,stroke-width:2px
+    style D fill:#96ceb4,stroke:#FFF,stroke-width:2px
+
+```
 
 <div align="center">
 
