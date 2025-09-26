@@ -4,7 +4,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LuckyDawamuzDzikri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=-%20at%20-&descAlign=50&descAlignY=51&descSize=16"/>
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=I am informatics engineering specializing in web applications with various experience: college,internship & coding camp, I am skilled in Fullstack.;Stop scrolling facebook and do the coding" alt="Typing Animation"/>
+   <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=I am an informatics engineering student specializing in web applications.;I have experience from college, internships, and coding camps.;Stop scrolling facebook and let's code!" alt="Typing Animation"/>
   
 </div>
 
@@ -29,9 +29,9 @@ education: Diploma 3 Informatics Engineering - GPA 3.82/4.00
 currently_learning: Multi-platform Developer (Flutter), Framework (React.js)
 2025_goal: have a job :)
 hobbies: Gaming, Tech, Movies, and Music.
-
 ```
-<!-- 
+
+<!--
 # website: -
 # current_company: -
 # current_role: - -->
@@ -160,7 +160,6 @@ hobbies: Gaming, Tech, Movies, and Music.
 
 <div align="center">
 
-
 ## 🎯 CURRENT FOCUS
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -171,7 +170,7 @@ graph LR
     C[🌱 Learning] --> D[Multi-platform Developer]
     E[💬 Ask Me About] --> F[Fullstack Developer]
     G[⚡ Fun Fact] --> H[[Love to learning new tech!]]
-    
+
     style A fill:#ff6b6b
     style C fill:#4ecdc4
     style E fill:#45b7d1
@@ -198,13 +197,17 @@ graph LR
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://simoara.com) -->
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luckyd)
+
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[Your twitterUsername])
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[Your instagramUsername])
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/[Your youtubeChannel]) -->
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckydawamuzdzikri@gmail.com)
 
 ### 💬 Let's Talk About:
+
 - 🔥 Web Development & Modern Frameworks
 - 🤖 AI/ML & Data Science
 - 🎨 UI/UX Design Principles
