@@ -47,7 +47,8 @@ hobbies: Gaming, Tech, Movies, and Music.
 
 ## 🚀 TECH STACK & TOOLS
 
-<img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,bootstrap,vite,webpack,php,laravel,nodejs,mysql,firebase,flutter,figma,git,github,vscode,discord,notion)](https://skillicons.dev)&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,bootstrap,vite,webpack,php,laravel,nodejs,mysql,firebase,flutter,figma,git,github,vscode,discord,notion&perline=8" />
+
 
 <br/><br/>
 
